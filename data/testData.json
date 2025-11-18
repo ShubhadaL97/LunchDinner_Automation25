@@ -3,7 +3,8 @@
     "name": "Shubhada",
     "email": "sblnzau@gmail.com",
     "password": "2014So8#",
-    "address": "Auckland, NZ"
+    "address": "Auckland, NZ",
+    "MealType": "Dinner"
   },
   "menuItems": ["Roti", "Rice", "Currry"]
 }
